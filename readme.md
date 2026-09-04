@@ -38,16 +38,17 @@ El objetivo de la actividad es poner a prueba los conocimientos que se supone qu
 
 ## Instalación
 
-*Indica, paso a paso, cómo obtener el proyecto y dejarlo listo para ejecutarse a partir de una clonación limpia del repositorio.*
-
 Clonar el repositorio del proyecto
-*git clone <URL_DEL_REPOSITORIO>*
+*git clone [https://github.com/AmirM-06/Actividad1_DAW.git](https://github.com/AmirM-06/Actividad1_DAW.git)*
 
 Navegar al directorio del proyecto
-*cd <NOMBRE_DEL_REPOSITORIO>*
+*cd Actividad1_DAW*
 
 Instalar todas las dependencias 
 *npm install*
+
+Iniciar el servidor en modo desarrollo
+*npm run dev*
 
 ## Ejecución
 Para poner el funccionamiento el servidor web y empezar a hacer realizar peticiones:
