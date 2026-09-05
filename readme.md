@@ -37,7 +37,6 @@ El objetivo de la actividad es poner a prueba los conocimientos que se supone qu
 - npm (v9.0.0 o superior)
 
 ## Instalación
-
 Clonar el repositorio del proyecto
 *git clone [https://github.com/AmirM-06/Actividad1_DAW.git](https://github.com/AmirM-06/Actividad1_DAW.git)*
 
